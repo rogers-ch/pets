@@ -1,0 +1,18 @@
+{
+  "name": "jonlaygo/328/pets",
+  "authors": [
+    {
+      "name": "John Laygo",
+      "email": "jlaygo@mail.greenriver.edu"
+    },
+
+    {
+      "name": "Corey Rogers",
+      "email": "crogers25@mail.greenriver.edu"
+    }
+
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
